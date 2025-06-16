@@ -14,8 +14,6 @@ public class TwoSum {
 
             map.put(nums[i], i);
         }
-
-        // In case no solution is found (though the question guarantees one)
         return new int[] {};
     }
 
