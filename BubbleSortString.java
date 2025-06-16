@@ -1,6 +1,6 @@
-package priya;
+package heiio;
 
-import java.util.*;
+import java.util.Scanner;
 
 public class BubbleSortString {
     public static void main(String[] args) {
